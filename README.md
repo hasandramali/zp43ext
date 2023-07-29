@@ -12,5 +12,5 @@
 *ZP Extended is a fan-made customized plugin.*
 
 ### Special thanks to
-#### [@iQuitt](https://github.com/iQuitt)
-#### [@hasandramali](https://github.com/hasandramali)
+[@iQuitt](https://github.com/iQuitt)
+[@hasandramali](https://github.com/hasandramali)
