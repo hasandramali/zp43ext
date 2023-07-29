@@ -11,6 +11,12 @@
 ### What is ZP Extended?
 *ZP Extended is a fan-made customized plugin.*
 
+### Features
+- Weapon icon in hud
+- Ammopack reward box
+
+*Note : More features will be added with updates.*
+
 ### Special thanks to
 [@iQuitt](https://github.com/iQuitt)
 
