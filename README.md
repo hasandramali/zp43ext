@@ -8,5 +8,7 @@
 
 ###
 
-## What is ZP Extended?
-## *ZP Extended is a fan-made customized plugin.*
+### What is ZP Extended?
+*ZP Extended is a fan-made customized plugin. So what are the features of the plugin?*
+
+### Features
