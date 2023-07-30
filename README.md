@@ -8,17 +8,20 @@
 
 ###
 
-### What is ZP Extended?
+### --What is ZP Extended?--
 *ZP Extended is a fan-made customized plugin.*
 
-### Features
+### --Features--
 - Weapon icon in hud
 - Ammopack reward box
 - zp_ammo_ex plugin merged with zombie plague extended
 
 *Note : More features will be added with updates.*
 
-### Special thanks to
+### --How To Install?--
+[Click here](https://github.com/byoreo/zp43ext/archive/refs/heads/main.zip) to download the zip.
+
+### --Special thanks to--
 [@iQuitt](https://github.com/iQuitt)
 
 [@hasandramali](https://github.com/hasandramali)
