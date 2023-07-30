@@ -1,0 +1,17 @@
+[en]
+WAS_G = was given
+CHANGED = Now it will give
+AMMO = ammo packs
+AM = Give Ammo Menu
+
+[ru]
+WAS_G = получил
+CHANGED = Теперь раздаем по
+AMMO = аммо паков
+AM = Меню раздачи аммо
+
+[de]
+WAS_G = erhalten
+CHANGED = Jetzt sind wir an der Verteilung von
+AMMO = Ammo packs
+AM = Menu Verteilung von Ammo's
