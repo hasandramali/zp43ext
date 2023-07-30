@@ -18,7 +18,7 @@
 
 *Note : More features will be added with updates.*
 
-### --How To Install?--
+### --Install--
 [Click here](https://github.com/byoreo/zp43ext/archive/refs/heads/main.zip) to download the zip.
 
 ### --Compile--
