@@ -14,6 +14,7 @@
 ### Features
 - Weapon icon in hud
 - Ammopack reward box
+- zp_ammo_ex plugin merged with zombie plague extended
 
 *Note : More features will be added with updates.*
 
