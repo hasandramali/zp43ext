@@ -21,6 +21,10 @@
 ### --How To Install?--
 [Click here](https://github.com/byoreo/zp43ext/archive/refs/heads/main.zip) to download the zip.
 
+### --Compile--
+#### - Windows
+#### - Lınux
+
 ### --Special thanks to--
 [@iQuitt](https://github.com/iQuitt)
 
