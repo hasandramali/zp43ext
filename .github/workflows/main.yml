@@ -17,7 +17,7 @@ jobs:
           fetch-depth: 0
           submodules: recursive
    - run: | 
-           apt install build-essential -y
+           sudo apt install build-essential -y
            bash addons/amxmodx/scripting/compile.sh
    - name: Upload artifacts
      uses: actions/upload-artifact@v2
