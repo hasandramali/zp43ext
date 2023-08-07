@@ -18,10 +18,10 @@ jobs:
           submodules: recursive
    - run: | 
            sudo apt install build-essential -y
-           cd addons/amxmodx/scripting/
+           cd building/scripting/
            ./compile.sh
    - name: Upload artifacts
      uses: actions/upload-artifact@v2
      with:
           name: android-compiled
-          path: addons/scripting/compiled
+          path: building/scripting/compiled
