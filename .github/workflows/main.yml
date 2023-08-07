@@ -1,0 +1,26 @@
+name: Build Plugins
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+   name: Building
+   runs-on: ubuntu-latest
+   steps:
+   - name: Checkout sources
+     uses: actions/checkout@v2
+     with:
+          fetch-depth: 0
+          submodules: recursive
+   - run: | 
+           apt install build-essential -y
+           bash addons/amxmodx/scripting/compile.sh
+   - name: Upload artifacts
+     uses: actions/upload-artifact@v2
+     with:
+          name: android-compiled
+          path: addons/scripting/compiled
