@@ -125,21 +125,21 @@ RES_WEAP = Forbyd Vaaben
 TELE_PLAYER = Teleport Spiller
 
 [pl]
-KICK_PLAYER = Wywal gracza
+KICK_PLAYER = Wyrzuc gracza
 BAN_PLAYER = Zbanuj gracza
 SLAP_SLAY = Uderz/zgladz gracza
-TEAM_PLAYER = Gracz druzyny ^n
+TEAM_PLAYER = Zmiana druzyny ^n
 CHANGEL = Zmien mape
-VOTE_MAPS = Glosuj na mapy ^n
+VOTE_MAPS = Glosowanie na mapy ^n
 SPECH_STUFF = Rzeczy zw. z rozmowa
-CLIENT_COM = Komendy Klienta
-SERVER_COM = Komendy Serwera
+CLIENT_COM = Komendy na graczach
+SERVER_COM = Komendy serwerowe
 CVARS_SET = Ustawienia Cvar'ow
 CONFIG = Konfiguracja
 LANG_SET = Ustawienia jezyka
 STATS_SET = Ustawienia statystyk ^n
 PAUSE_PLUG = Zatrzymaj pluginy
-RES_WEAP = Ogranicz bronie
+RES_WEAP = Zablokuj bronie
 TELE_PLAYER = Teleportuj gracza
 
 [nl]
@@ -232,41 +232,23 @@ PAUSE_PLUG = Pysayta plugineja
 RES_WEAP = Kiella aseita
 TELE_PLAYER = Teleporttaa pelaaja
 
-[ls]
-KICK_PLAYER = |<!c|< n00b
-BAN_PLAYER = |3@n n00b
-SLAP_SLAY = $|@p/$|@y n00b
-TEAM_PLAYER = T34m n00b ^n
-CHANGEL = Ch4ng3|3\/3|
-VOTE_MAPS = V0t3 f0|2 m4ps ^n
-SPECH_STUFF = Sp33ch Stuff
-CLIENT_COM = Cli3nt C0m@ndz
-SERVER_COM = S3|2\/3|2 C0m@ndz
-CVARS_SET = C\/4|2s |200t c0n|=igz
-CONFIG = C0nf!gu|24ti0n
-LANG_SET = |_4ngu4g3 |200t c0n|=igz
-STATS_SET = St4ts |200t c0n|=igz ^n
-PAUSE_PLUG = P4us3 Plugins
-RES_WEAP = R3st|2ict W34p0ns
-TELE_PLAYER = T3l3p0|2t n00b
-
 [bg]
-KICK_PLAYER = Kickni Igra4
-BAN_PLAYER = Banni Igra4
-SLAP_SLAY = Slapni/Slayni Igra4
-TEAM_PLAYER = Smeni Otbora na Igra4 ^n
-CHANGEL = Smeni karta
+KICK_PLAYER = Kickni Igrach
+BAN_PLAYER = Banni Igrach
+SLAP_SLAY = Slapni/Slayni Igrach
+TEAM_PLAYER = Smeni otbora na igrach ^n
+CHANGEL = Smeni kartata
 VOTE_MAPS = Glasuvai za karta ^n
-SPECH_STUFF = Ne6ta za govorene
-CLIENT_COM = klient Comandi
-SERVER_COM = Server Comandi
-CVARS_SET = Nastroiki za Cvars
-CONFIG = Configuracia
+SPECH_STUFF = Komandi za govorene
+CLIENT_COM = Klientski komandi
+SERVER_COM = Serverni komandi
+CVARS_SET = Nastroiki za cvarove
+CONFIG = Konfiguraciq
 LANG_SET = Ezikovi nastroiki
-STATS_SET = Nastroiki za Statistikite ^n
-PAUSE_PLUG = Pause Plugini
-RES_WEAP = Blokirai Orajia
-TELE_PLAYER = Teleportirai Igra4i
+STATS_SET = Nastroiki za statistikite ^n
+PAUSE_PLUG = Postavi plugini na pauza
+RES_WEAP = Zabrani orujiq
+TELE_PLAYER = Teleportirai igrachi
 
 [ro]
 KICK_PLAYER = Kick Jucator
@@ -287,22 +269,22 @@ RES_WEAP = Restrictioneaza Arme
 TELE_PLAYER = Teleporteaza Jucator
 
 [hu]
-KICK_PLAYER = Jatekos kirugasa
-BAN_PLAYER = Jatekos ban
-SLAP_SLAY = Jatekos Megutes/Megoles
-TEAM_PLAYER = Jatekos csapatvaltasa ^n
-CHANGEL = Palyavaltas
-VOTE_MAPS = Szavazas palyara ^n
-SPECH_STUFF = Beszed menu
-CLIENT_COM = Jatekos parancsok
+KICK_PLAYER = Játékos kirúgása
+BAN_PLAYER = Játékos ban
+SLAP_SLAY = Játékos Megütes/Megölés
+TEAM_PLAYER = Játékos csapatváltása ^n
+CHANGEL = Pályaváltás
+VOTE_MAPS = Szavazás pályára ^n
+SPECH_STUFF = Beszéd menü
+CLIENT_COM = Játekos parancsok
 SERVER_COM = Szerver parancsok
-CVARS_SET = Cvars Beallitasok
-CONFIG = Configuracio
-LANG_SET = Nyelv Beallitasok
-STATS_SET = Stat beallitasok ^n
-PAUSE_PLUG = Pillanat alj Pluginok
-RES_WEAP = Felfuggesztett fegyverek
-TELE_PLAYER = Teleport jatekos
+CVARS_SET = Cvar Beállítások
+CONFIG = Configuráció
+LANG_SET = Nyelv Beállítások
+STATS_SET = Stat beállítások ^n
+PAUSE_PLUG = Pillanat állj Pluginok
+RES_WEAP = Felfüggesztett fegyverek
+TELE_PLAYER = Játékos teleportálása
 
 [lt]
 KICK_PLAYER = Ismesti zaideja
@@ -341,19 +323,91 @@ RES_WEAP = Obmedzit zbrane
 TELE_PLAYER = Teleportovat hraca
 
 [mk]
-KICK_PLAYER = Kikni igrac
-BAN_PLAYER = Baniraj igrac
-SLAP_SLAY = Slap/Slay igrac
-TEAM_PLAYER = Promeni go timot na igracite ^n
-CHANGEL = Promeni mapa
+KICK_PLAYER = Kikni igrach
+BAN_PLAYER = Baniraj igrach
+SLAP_SLAY = Slapni/Slayni igrach
+TEAM_PLAYER = Promeni go timot na igrach ^n
+CHANGEL = Promeni ja mapata
 VOTE_MAPS = Glasanje za mapa ^n
-SPECH_STUFF = Glasovni Komandi
+SPECH_STUFF = Glasovni komandi
 CLIENT_COM = Komandi za klientite
 SERVER_COM = Komandi za serverot
 CVARS_SET = Podesuvanje na serverot
 CONFIG = Gotovi konfiguracii za serverot
 LANG_SET = Izbor na jazik
 STATS_SET = Podesuvanje na statistikata ^n
-PAUSE_PLUG = Pauza na plaginite
-RES_WEAP = Ogranicuvanje na oruzja
-TELE_PLAYER = Teleportiranje na igraci
+PAUSE_PLUG = Pauza na pluginite
+RES_WEAP = Ogranichuvanje na oruzhja
+TELE_PLAYER = Teleportiranje na igrachi
+
+[hr]
+KICK_PLAYER = Kick igraca
+BAN_PLAYER = Ban igraca
+SLAP_SLAY = Samar/slay igraca
+TEAM_PLAYER = Promijeni tim igraca ^n
+CHANGEL = Promijeni mapu
+VOTE_MAPS = Glasaj za mape ^n
+SPECH_STUFF = Govorne naredbe
+CLIENT_COM = Naredbe klijenta
+SERVER_COM = Naredbe servera
+CVARS_SET = Naredbe podesavanja
+CONFIG = Konfiguracija
+LANG_SET = Jezik
+STATS_SET = Podesavanje statistike ^n
+PAUSE_PLUG = Pauziranje pluginova
+RES_WEAP = Zabrana oruzja
+TELE_PLAYER = Teleportiraj igraca
+
+[bs]
+KICK_PLAYER = Kick Igraca
+BAN_PLAYER = Ban Igraca
+SLAP_SLAY = Slap/Slay Igraca
+TEAM_PLAYER = Promijeni Tim Igraca ^n
+CHANGEL = Promijeni Mapu
+VOTE_MAPS = Glasaj za mape ^n
+SPECH_STUFF = Govorne Komande
+CLIENT_COM = Komande Klijenta
+SERVER_COM = Komande Servera
+CVARS_SET = Komande Podesavanja
+CONFIG = Konfiguracija
+LANG_SET = Jezik
+STATS_SET = Podesavanje Statistike ^n
+PAUSE_PLUG = Pauza Pluginova
+RES_WEAP = Ogranici Oruzja
+TELE_PLAYER = Teleport Igraca
+
+[ru]
+KICK_PLAYER = Кикнуть игрока
+BAN_PLAYER = Забанить игрока
+SLAP_SLAY = Ударить/Убить игрока
+TEAM_PLAYER = Команда игрока ^n
+CHANGEL = Смена карты
+VOTE_MAPS = Голосование за карту ^n
+SPECH_STUFF = Голосовые сообщения
+CLIENT_COM = Команды для клиента
+SERVER_COM = Серверные команды
+CVARS_SET = Значения переменных
+CONFIG = Конфигурации
+LANG_SET = Настройки языка
+STATS_SET = Настройки статистики ^n
+PAUSE_PLUG = Управление плагинами
+RES_WEAP = Запрет оружия
+TELE_PLAYER = Телепортировать игрока
+
+[cn]
+KICK_PLAYER = 踢除玩家
+BAN_PLAYER = 封禁玩家
+SLAP_SLAY = 处死/伤害 玩家
+TEAM_PLAYER = 团队玩家 ^n
+CHANGEL = 更改地图
+VOTE_MAPS = 投票更改地图 ^n
+SPECH_STUFF = 语音素材
+CLIENT_COM = 客户端命令
+SERVER_COM = 服务端命令
+CVARS_SET = 参数设置
+CONFIG = 配置
+LANG_SET = 语言设置
+STATS_SET = 统计设置 ^n
+PAUSE_PLUG = 暂停插件
+RES_WEAP = 限制武器
+TELE_PLAYER = 传送玩家
