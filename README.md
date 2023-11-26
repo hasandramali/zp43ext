@@ -12,20 +12,20 @@
 saxo testo
 </div>
 
-### --What is ZP Extended?--
+### • What is ZP Extended?
 *ZP Extended is a fan-made customized plugin.*
 
-### --Features--
+### • Features
 - *Weapon icon in hud*
 - *Ammopack reward box*
 - *zp_ammo_ex plugin merged with zombie plague extended*
 
 *Note : More features will be added with updates.*
 
-### --Install--
+### • Install
 *[Click here](https://github.com/byoreo/zp43ext/archive/refs/heads/main.zip) to download the zip. [AmxModX 1.10](https://www.amxmodx.org/downloads-new.php?branch=master&all=1) I recommend AmxModX version 1.10.*
 
-### --Compile--
+### • Compile
 #### - Windows
 - *Go to `cstrike/addons/amxmodx/scripting` location.*
 - *`zombie_plague40.sma, zp_zclasses.sma` drag these files to `compile.exe`*
